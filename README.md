@@ -12,5 +12,3 @@ Desarrollo aplicaciones web enfocadas en la usabilidad y la resolución de probl
 
 ### 📬 Contacto & Portfolio
 * [LinkedIn](tu-link)
-* [Portfolio Web](tu-link)
-* [Behance - Diseño Gráfico](tu-link)
