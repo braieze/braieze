@@ -1,14 +1,17 @@
 # Hola, soy Braian Gómez 👋
 
-**Desarrollador Front-End & Diseñador UI/UX | Estudiante de Ingeniería en Sistemas**
+**Desarrollador Web Full Stack & Diseñador UI/UX | Estudiante de Ingeniería en Sistemas**
 
-Desarrollo aplicaciones web enfocadas en la usabilidad y la resolución de problemas reales. Mi experiencia previa en el control de trazabilidad y aseguramiento de calidad de procesos bajo estrictas normativas (GMP) me formó para diseñar arquitecturas de software limpias, auditables y escalables. 
+Construyo productos digitales donde la arquitectura técnica, el diseño visual y los medios digitales convergen. Mi formación oficial como desarrollador y mi dominio de herramientas multimedia me permiten crear soluciones de software escalables con interfaces impecables, abordando cada proyecto desde la lógica del código hasta la experiencia del usuario final.
 
 ### 🚀 Stack Tecnológico
-* **Front-End:** JavaScript, React, HTML5, CSS3, Vite.
-* **Backend & Cloud:** Firebase, Vercel, Capacitor.
-* **Diseño UI/UX:** Photoshop, Illustrator, Premiere, After Effects, Figma.
-* **Formación:** Full Stack Developer (UTN) | Ingeniería en Sistemas (UAI / OSSU).
+* **Desarrollo Web:** React.js, JavaScript, HTML5/CSS3, Tailwind CSS, Vite.
+* **Backend, Cloud & Mobile:** Firebase, Vercel, Capacitor.
+* **Diseño UI/UX:** Figma, Photoshop, Illustrator.
+* **Multimedia & Streaming:** OBS Studio, vMix, Premiere Pro, After Effects.
+* **Formación Académica:** Diplomatura Full Stack (UTN) | Ingeniería en Sistemas (UAI).
 
 ### 📬 Contacto & Portfolio
-* [LinkedIn](tu-link)
+* 🌐 **Portfolio Web:** [braiangomez.dev](https://braigomez-portfolio.vercel.app/)
+* 💼 **LinkedIn:** [in/braigomez](https://linkedin.com/in/braigomez)
+* ✉️ **Email:** braianezequielgomez00@gmail.com
